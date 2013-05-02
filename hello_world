@@ -1,2 +1,25 @@
 hello my world
-this is an  abomination us all , they better fix it now . ima so pissed. i'm not coming back here tomorrow people. Who is  charge of the mess.  eof 
+This is an  abomination us all , they better fix it now. I'm a so pissed. I 'm not coming back here tomorrow people. Who is  charge of the mess.  eof
+ ApiExceptions::ParameterError (ParameterError: Parameter 'server[name]' cannot be a blank value):#012
+
+ApiExceptions::MonitoringDataError (MonitoringDataError: Unable to retrive monitoring data.):#012
+
+ApiExceptions::MonitoringDataError (MonitoringDataError: Unable to retrive raw sketchy data):#012 
+
+ ApiExceptions::MonitoringDataError (MonitoringDataError: The service is not active.):#012
+
+Failed bundling executable app::do_loadbalancers_allow (NoMethodError: undefined method `account' for nil:NilClass in#012
+
+Failed bundling executable db::do_appservers_allow (NoMethodError: undefined method `account' for nil:NilClass in#012
+
+ActionController::RoutingError (No route matches "/api/clouds//instances" with {:method=>:get}):#012 
+
+Exception Biz::RemoteExceptions::CloudExceptions::CloudException with message:
+
+
+Biz::RemoteExceptions::CloudExceptions::CloudException
+
+
+Failed to record state transition for rs-instance-7d4761cfa32597d3f4aa3e6f84afa9caaa793fdc-5031735 (RuntimeError: Invalid instance state transtion for instance 8207150 (i-f0f3a69f) from stopping to operational in#012  
+
+ 
